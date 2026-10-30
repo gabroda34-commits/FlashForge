@@ -1,0 +1,6 @@
+{
+  "name": "FlashForge SWF Decompiler",
+  "description": "In-browser SWF binary inspector, ActionScript 1/2/3 (AVM1 & AVM2) decompiler, p-code disassembler, and asset extractor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

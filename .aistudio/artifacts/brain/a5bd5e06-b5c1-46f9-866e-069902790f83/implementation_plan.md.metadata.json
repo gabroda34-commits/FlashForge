@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for FlashForge SWF Inspector & ActionScript Decompiler supporting AVM1 (AS1/2) and AVM2 (AS3) bytecode decompilation, p-code disassembly, tag tree inspection, asset extraction, built-in sample SWFs, and ZIP export.",
+  "updatedAt":  "2026-10-30T09:54:41.319194269Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
